@@ -63,4 +63,27 @@
 <!---
 shivam-cyber-9896/shivam-cyber-9896 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---><!-- 🌌 Futuristic Glassmorphism GitHub Profile for Shivam Khatri -->
+
+<h1 align="center">⚡ Shivam Khatri ⚡</h1>
+<h3 align="center">Full-Stack Developer | AI Explorer | Cybersecurity Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+Digital+AI+Lab;Building+Secure+and+Scalable+Systems;Full-Stack+%7C+AI+%7C+Cybersecurity;Code+the+Future+⚡" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=header"/>
+</p>
+
+---
+
+## 🧬 About Me
+
+```txt
+👨‍💻 Name: Shivam Khatri  
+🎯 Role: Full-Stack Developer | SDE Aspirant  
+🧠 Focus: Web Apps • AI Systems • Secure Software  
+☕ Fuel: Coffee + Curiosity  
+🚀 Mission: Build future-ready, secure digital solutions
+
